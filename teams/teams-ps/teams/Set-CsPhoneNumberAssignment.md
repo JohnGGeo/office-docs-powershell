@@ -104,7 +104,7 @@ Aliases:
 Applicable: Microsoft Teams
 
 Required: False
-Default value: None
+Default value: True
 Accept pipeline input: False
 Accept wildcard characters: False
 ```
